@@ -102,17 +102,6 @@ const dev = {
 
 ---
 
-### 📊 `> github --stats`
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=superpugn&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=superpugn&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=FF00FF&currStreakLabel=00FF41" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=superpugn&bg_color=0d1117&color=00ff41&line=00ff41&point=ff00ff&area=true&hide_border=true" />
-</p>
-
 ---
 
 <div align="center">
@@ -150,19 +139,6 @@ class Superpugn:
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-### 📊 `> github --stats`
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=superpugn&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=superpugn&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=FF00FF&currStreakLabel=00FF41" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=superpugn&bg_color=0d1117&color=00ff41&line=00ff41&point=ff00ff&area=true&hide_border=true" />
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=4000&pause=500&color=FF00FF&center=true&vCenter=true&width=500&lines=%3E+Keep+building.+Keep+hacking.+Stay+curious.;%3E+The+best+smart+home+is+the+one+you+built+yourself." alt="Footer" />
-
-<img src="https://komarev.com/ghpvc/?username=superpugn&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
